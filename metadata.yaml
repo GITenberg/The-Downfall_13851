@@ -25,6 +25,8 @@ description: "La Débâcle is a novel by Émile Zola published in 1892, the penu
   \ political and military events that ended the reign of Napoléon III and the Second\
   \ Empire in 1870, in particular the Franco-Prussian War, the Battle of Sedan and\
   \ the Paris Commune.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13851#The-Downfall
 gutenberg_issued: '2004-10-25'
 gutenberg_type: Text
 identifiers:
